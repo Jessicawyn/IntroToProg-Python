@@ -1,0 +1,3 @@
+Walk Dog,1
+Vacuum,3
+Trash,4
